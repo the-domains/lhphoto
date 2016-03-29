@@ -1,0 +1,28 @@
+name: LH Photography
+favicon: null
+layout_spectrum: 0.6756706153973937
+typography_spectrum: 0.34991067089140415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8701206077821553
+  lightness: 0.3091443113517016
+  saturation: 0.08887299755588174
+  rhythmicContrast: 0.3604530584998429
+purpose: []
